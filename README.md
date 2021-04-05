@@ -9,7 +9,7 @@ Very, very much a rookie to Github & Programming & Developing, despite calling m
 - 🏘 **I live in New York City.** You'll also occasionally see me in Taipei, and that faux-utopia you dreamt about once in fifth grade.
 - ✌️ I'm a big advocate of **Urbanism**, better **Architecture**, **Tech**, and **YIMBYism**
 - 👨‍💻 Consequentially, I'm often on the intersection of urban planning, data science, GIS, and more forms of mapping in general
-- 🔭 I'm quite curious and overly ambitious, so I'm fed by a slapdash of information diet that involves a lot of blockchain and economics content at the same time
+- 🔭 I'm quite curious and overly ambitious, so I'm fed by a slapdash of information diet that involves a lot of blockchain and economics content at the same time. If you write interesting stuff, decent chance I know your work already...
 - 📫 Aside from my social media handle **@wechanism**, find me by emailing **wc1380@stern.nyu.edu** ~~or my site-in-progress **wechanism.com**~~ (whenever it is ready)
 
 <!---
